@@ -7,6 +7,9 @@ public class JenkinsTest {
 		System.out.println("Looking for build triggers");
 		
 		System.out.println("Looking fot git to triggers");
+		
+		
+		System.out.println("is it a 4th line???");
 
 	}
 
